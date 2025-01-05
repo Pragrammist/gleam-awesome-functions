@@ -1,6 +1,6 @@
 # gleam basic examples
 
-## Hello. It's basic gleam code examples that you can use or look to understand how you think through gleam language
+## Hello. It's basic gleam code examples that you can use or look to understand how you can think through gleam language
 
 
 ### String interpolation
