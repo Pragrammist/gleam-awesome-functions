@@ -20,10 +20,10 @@ pub fn replace(
     ends_with(inspected_string, "\"")
     && starts_with(inspected_string, "\"")
     //if there's just two " it will not cut "
-    //you can delete it if you want
     && length(inspected_string) > 2
   {
     False -> inspected_string
+    //if there's just two " it will not cut "
     True -> inspected_string |> drop_start(1) |> drop_end(1)
   }
 
