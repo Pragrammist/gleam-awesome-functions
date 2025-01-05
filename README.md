@@ -1,7 +1,7 @@
 # Gleam basic examples. Gleam awesome functions
 
 ## Hello. It's basic gleam code examples that you can use or look to understand how you can think through gleam language
-
+You can add new function through issues or pull request. Or if you newby gleam you can ask to add some examples of your case
 
 ### String interpolation
 
